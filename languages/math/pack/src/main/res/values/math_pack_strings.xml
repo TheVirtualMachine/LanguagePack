@@ -1,0 +1,5 @@
+<resources>
+    <string name="math_dictionary_description">Math</string>
+    <string name="math_dictionary">Math</string>
+    <string name="math_keyboard_description">QWERTY Math keyboard</string>
+</resources>

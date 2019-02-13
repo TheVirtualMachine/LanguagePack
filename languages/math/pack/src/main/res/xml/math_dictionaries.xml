@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Dictionaries>
     <Dictionary
-        autoTextResourceId="@xml/english_autotext"
-        description="@string/english_dictionary_description"
-        dictionaryResourceId="@array/english_words_dict_array"
-        id="8a678ccc-b62a-41e3-9d1b-0023bf710b2b"
-        initialSuggestions="@array/english_initial_suggestions"
-        locale="en"
-        nameResId="@string/english_dictionary"
+        description="@string/math_dictionary_description"
+        dictionaryResourceId="@array/math_words_dict_array"
+        id="85fca202-1800-42ce-8860-9d8ca05fbe5e"
+        locale="math"
+        nameResId="@string/math_dictionary"
         type="binary_resource" />
 </Dictionaries>
