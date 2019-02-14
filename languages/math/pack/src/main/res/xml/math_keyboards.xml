@@ -8,7 +8,7 @@
         id="BCC2F188-9810-44BF-A605-D3ADA26FB913"
         index="1"
         layoutResId="@xml/qwerty_math"
-        nameResId="@string/math_keyboard"
+        nameResId="@string/qwerty_math_keyboard"
         physicalKeyboardMappingResId="@xml/english_physical" />
 
 </Keyboards>
