@@ -20,11 +20,11 @@
 
     <Row>
         <Key android:codes="q" android:popupCharacters="" android:keyEdgeFlags="left"/>
-        <Key android:codes="w" android:popupCharacters=""/>
+        <Key android:codes="w" android:popupCharacters="\u02B7"/>
         <Key android:codes="e" android:popupCharacters="\u1D49\u2091"/>
-        <Key android:codes="r" android:popupCharacters=""/>
+        <Key android:codes="r" android:popupCharacters="\u02B3"/>
         <Key android:codes="t" android:popupCharacters="\u1D57\u209C"/>
-        <Key android:codes="y" android:popupCharacters=""/>
+        <Key android:codes="y" android:popupCharacters="\u02B8"/>
         <Key android:codes="u" android:popupCharacters="\u1D58"/>
         <Key android:codes="i" android:popupCharacters="\u2071\u1D62"/>
         <Key android:codes="o" android:popupCharacters="\u1D52\u2092"/>
@@ -33,22 +33,22 @@
 
     <Row>
         <Key android:horizontalGap="5%p" android:codes="97" android:keyLabel="a" android:popupCharacters="\u1D43\u2090" android:keyEdgeFlags="left"/>
-        <Key android:codes="s" android:popupCharacters="\u209B"/>
+        <Key android:codes="s" android:popupCharacters="\u02E2\u209B"/>
         <Key android:codes="d" android:popupCharacters="\u1D48"/>
-        <Key android:codes="f" android:popupCharacters=""/>
+        <Key android:codes="f" android:popupCharacters="\u1DA0"/>
         <Key android:codes="g" android:popupCharacters="\u1D4D"/>
-        <Key android:codes="h" android:popupCharacters=" \u2095"/>
-        <Key android:codes="j" android:popupCharacters=""/>
+        <Key android:codes="h" android:popupCharacters="\u02B0\u2095"/>
+        <Key android:codes="j" android:popupCharacters="\u02B2"/>
         <Key android:codes="k" android:popupCharacters="\u1D4F\u2096"/>
-        <Key android:codes="l" android:popupCharacters="\u2097" android:keyEdgeFlags="right"/>
+        <Key android:codes="l" android:popupCharacters="\u02E1\u2097" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
         <Key android:codes="-1" android:keyWidth="15%p"
              android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:codes="z" android:popupCharacters=""/>
-        <Key android:codes="x" android:popupCharacters="\u2093"/>
-        <Key android:codes="c" android:popupCharacters=""/>
+        <Key android:codes="z" android:popupCharacters="\u1DBB"/>
+        <Key android:codes="x" android:popupCharacters="\u02E3\u2093"/>
+        <Key android:codes="c" android:popupCharacters="\u1D9C"/>
         <Key android:codes="v" android:popupCharacters="\u1D5B"/>
         <Key android:codes="b" android:popupCharacters="\u1D47"/>
         <Key android:codes="n" android:popupCharacters="\u207F\u2099"/>

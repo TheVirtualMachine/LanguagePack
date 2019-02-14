@@ -10,5 +10,4 @@
         layoutResId="@xml/qwerty_math"
         nameResId="@string/qwerty_math_keyboard"
         physicalKeyboardMappingResId="@xml/english_physical" />
-
 </Keyboards>
