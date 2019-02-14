@@ -1,4 +1,4 @@
-ext.status_icon_text = "math"
+ext.status_icon_text = "ma"
 
 ext.dictionaryInputPossibleCharacters = null//"".toCharArray()
 ext.dictionaryInputAdditionalInnerCharacters = null//"".toCharArray()

@@ -13,7 +13,10 @@
    height="22.4536mm"
    width="26.040337mm"
    sodipodi:docname="flag.svg"
-   inkscape:version="0.92.4 (unknown)">
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/vince/Documents/git/Personal Projects/LanguagePack/languages/math/apk/flag/flag.png"
+   inkscape:export-xdpi="500.38522"
+   inkscape:export-ydpi="500.38522">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,8 +31,8 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="7.8656297"
-     inkscape:cx="32.768246"
-     inkscape:cy="59.132502"
+     inkscape:cx="18.401945"
+     inkscape:cy="43.876254"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
