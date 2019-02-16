@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:ask="http://schemas.android.com/apk/res-auto"
+          android:keyWidth="10%p"
+          android:keyHeight="@integer/key_normal_height">
+
+    <Row android:rowEdgeFlags="top">
+        <Key android:codes="49" android:keyLabel="1" android:popupCharacters="\u00B9\u2081" android:keyEdgeFlags="left"/>
+        <Key android:codes="50" android:keyLabel="2" android:popupCharacters="\u00B2\u2082"/>
+        <Key android:codes="51" android:keyLabel="3" android:popupCharacters="\u00B3\u2083"/>
+        <Key android:codes="52" android:keyLabel="4" android:popupCharacters="\u2074\u2084"/>
+        <Key android:codes="53" android:keyLabel="5" android:popupCharacters="\u2075\u2085"/>
+        <Key android:codes="54" android:keyLabel="6" android:popupCharacters="\u2076\u2086"/>
+        <Key android:codes="55" android:keyLabel="7" android:popupCharacters="\u2077\u2087"/>
+        <Key android:codes="56" android:keyLabel="8" android:popupCharacters="\u2078\u2088"/>
+        <Key android:codes="57" android:keyLabel="9" android:popupCharacters="\u2079\u2089"/>
+        <Key android:codes="48" android:keyLabel="0" android:popupCharacters="\u2070\u2080" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+	    <Key android:codes="q" android:keyLabel="ℚ" android:keyOutputText="ℚ" android:popupCharacters="" android:keyEdgeFlags="left"/>
+	    <Key android:codes="w" android:keyLabel="𝕎" android:keyOutputText="𝕎" android:popupCharacters=""/>
+	    <Key android:codes="e" android:keyLabel="𝔼" android:keyOutputText="𝔼" android:popupCharacters=""/>
+	    <Key android:codes="r" android:keyLabel="ℝ" android:keyOutputText="ℝ" android:popupCharacters=""/>
+	    <Key android:codes="t" android:keyLabel="𝕋" android:keyOutputText="𝕋" android:popupCharacters=""/>
+	    <Key android:codes="y" android:keyLabel="𝕐" android:keyOutputText="𝕐" android:popupCharacters=""/>
+	    <Key android:codes="u" android:keyLabel="𝕌" android:keyOutputText="𝕌" android:popupCharacters=""/>
+	    <Key android:codes="i" android:keyLabel="𝕀" android:keyOutputText="𝕀" android:popupCharacters=""/>
+	    <Key android:codes="o" android:keyLabel="𝕆" android:keyOutputText="𝕆" android:popupCharacters=""/>
+	    <Key android:codes="p" android:keyLabel="ℙ" android:keyOutputText="ℙ" android:popupCharacters="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:horizontalGap="5%p" android:codes="a" android:keyLabel="𝔸" android:keyOutputText="𝔸" android:popupCharacters="" android:keyEdgeFlags="left"/>
+	<Key android:codes="s" android:keyLabel="𝕊" android:keyOutputText="𝕊" android:popupCharacters=""/>
+	<Key android:codes="d" android:keyLabel="𝔻" android:keyOutputText="𝔻" android:popupCharacters=""/>
+	<Key android:codes="f" android:keyLabel="𝔽" android:keyOutputText="𝔽" android:popupCharacters=""/>
+	<Key android:codes="g" android:keyLabel="𝔾" android:keyOutputText="𝔾" android:popupCharacters=""/>
+	<Key android:codes="h" android:keyLabel="ℍ" android:keyOutputText="ℍ" android:popupCharacters=""/>
+	<Key android:codes="j" android:keyLabel="𝕁" android:keyOutputText="𝕁" android:popupCharacters=""/>
+	<Key android:codes="k" android:keyLabel="𝕂" android:keyOutputText="𝕂" android:popupCharacters=""/>
+	<Key android:codes="l" android:keyLabel="𝕃" android:keyOutputText="𝕃" android:popupCharacters="" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:horizontalGap="15%p" android:codes="z" android:keyLabel="ℤ" android:keyOutputText="ℤ" android:popupCharacters="" android:keyEdgeFlags="left"/>
+	<Key android:codes="x" android:keyLabel="𝕏" android:keyOutputText="𝕏" android:popupCharacters=""/>
+	<Key android:codes="c" android:keyLabel="ℂ" android:keyOutputText="ℂ" android:popupCharacters=""/>
+	<Key android:codes="v" android:keyLabel="𝕍" android:keyOutputText="𝕍" android:popupCharacters=""/>
+	<Key android:codes="b" android:keyLabel="𝔹" android:keyOutputText="𝔹" android:popupCharacters=""/>
+	<Key android:codes="n" android:keyLabel="ℕ" android:keyOutputText="ℕ" android:popupCharacters=""/>
+	<Key android:codes="m" android:keyLabel="𝕄" android:keyOutputText="𝕄" android:popupCharacters="" android:keyEdgeFlags="right"/>
+        <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+    </Row>
+</Keyboard>

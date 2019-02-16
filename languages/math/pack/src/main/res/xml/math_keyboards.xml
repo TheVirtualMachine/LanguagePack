@@ -10,4 +10,22 @@
         layoutResId="@xml/qwerty_math"
         nameResId="@string/qwerty_math_keyboard"
         physicalKeyboardMappingResId="@xml/english_physical" />
+    <Keyboard
+        defaultDictionaryLocale="math"
+        defaultEnabled="false"
+        description="@string/blackboard_bold_keyboard_description"
+        iconResId="@drawable/ic_status_math"
+        id="495DEA42-F7E2-4DBF-BA27-C85F5A3F47D5"
+        index="2"
+        layoutResId="@xml/blackboard_bold"
+        nameResId="@string/blackboard_bold_keyboard"/>
+    <Keyboard
+        defaultDictionaryLocale="math"
+        defaultEnabled="false"
+        description="@string/set_theory_keyboard_description"
+        iconResId="@drawable/ic_status_math"
+        id="C3C0054B-A81A-456A-BAF9-B5F3954F75E3"
+        index="3"
+        layoutResId="@xml/set_theory"
+        nameResId="@string/set_theory_keyboard"/>
 </Keyboards>
