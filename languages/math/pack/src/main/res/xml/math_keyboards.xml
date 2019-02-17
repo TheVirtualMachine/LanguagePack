@@ -13,10 +13,20 @@
     <Keyboard
         defaultDictionaryLocale="math"
         defaultEnabled="false"
+        description="@string/greek_math_keyboard_description"
+        iconResId="@drawable/ic_status_math"
+        id="9AB05222-5B6A-44F6-8667-1C13E7A4D2D3"
+        index="2"
+        layoutResId="@xml/greek_math"
+        nameResId="@string/greek_math_keyboard"
+        physicalKeyboardMappingResId="@xml/english_physical" />
+    <Keyboard
+        defaultDictionaryLocale="math"
+        defaultEnabled="false"
         description="@string/blackboard_bold_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="495DEA42-F7E2-4DBF-BA27-C85F5A3F47D5"
-        index="2"
+        index="3"
         layoutResId="@xml/blackboard_bold"
         nameResId="@string/blackboard_bold_keyboard"/>
     <Keyboard
@@ -25,7 +35,7 @@
         description="@string/math_cal_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="9003804A-0930-4BA8-B364-2F3F024551BD"
-        index="3"
+        index="4"
         layoutResId="@xml/math_cal"
         nameResId="@string/math_cal_keyboard"/>
     <Keyboard
@@ -34,7 +44,7 @@
         description="@string/set_theory_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="C3C0054B-A81A-456A-BAF9-B5F3954F75E3"
-        index="4"
+        index="5"
         layoutResId="@xml/set_theory"
         nameResId="@string/set_theory_keyboard"/>
 </Keyboards>
