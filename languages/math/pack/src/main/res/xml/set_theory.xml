@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:ask="http://schemas.android.com/apk/res-auto"
-    android:keyWidth="10%p"
+    xmlns:ask="http://schemas.android.com/apk/res-auto" android:keyWidth="10%p"
     android:keyHeight="@integer/key_normal_height">
 
     <Row android:rowEdgeFlags="top">
@@ -21,11 +20,11 @@
     <Row>
         <Key android:codes="123" android:keyLabel="{" android:popupCharacters="" android:keyEdgeFlags="left"/>
         <Key android:codes="125" android:keyLabel="}" android:popupCharacters=""/>
-        <Key android:codes="40" android:keyLabel="(" android:popupCharacters="\u27EE"/>
-        <Key android:codes="41" android:keyLabel=")" android:popupCharacters="\u27EF"/>
+        <Key android:codes="40" android:keyLabel="(" android:popupCharacters=""/>
+        <Key android:codes="41" android:keyLabel=")" android:popupCharacters=""/>
         <Key android:codes="91" android:keyLabel="[" android:popupCharacters=""/>
         <Key android:codes="93" android:keyLabel="]" android:popupCharacters=""/>
-        <Key android:codes="8739" android:keyLabel="\u2223" android:popupCharacters=""/>
+        <Key android:codes="8739" android:keyLabel="\u2223" android:popupCharacters=":"/>
         <Key android:codes="8788" android:keyLabel="\u2254" android:popupCharacters="\u2255\u225D"/>
         <Key android:codes="8734" android:keyLabel="\u221E" android:popupCharacters=""/>
         <Key android:codes="8501" android:keyLabel="\u2135" android:popupCharacters="\u2136" android:keyEdgeFlags="right"/>
@@ -44,13 +43,13 @@
     </Row>
 
     <Row>
-        <Key android:horizontalGap="15%p" android:codes="58" android:keyLabel=":" android:popupCharacters="" android:keyEdgeFlags="left"/>
+        <Key android:horizontalGap="15%p" android:codes="215" android:keyLabel="\u00D7" android:popupCharacters="" android:keyEdgeFlags="left"/>
         <Key android:codes="8746" android:keyLabel="\u222A" android:popupCharacters=""/>
         <Key android:codes="8745" android:keyLabel="\u2229" android:popupCharacters=""/>
         <Key android:codes="8726" android:keyLabel="\u2216" android:popupCharacters=""/>
         <Key android:codes="8852" android:keyLabel="\u2294" android:popupCharacters=""/>
         <Key android:codes="8851" android:keyLabel="\u2293" android:popupCharacters=""/>
-        <Key android:codes="773" android:keyLabel="\u0305" android:popupCharacters=""/>
+        <Key android:codes="773" android:keyLabel="\u0305" android:popupCharacters="\u2201"/>
         <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>
