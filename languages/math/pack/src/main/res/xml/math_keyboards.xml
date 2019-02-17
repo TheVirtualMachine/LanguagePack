@@ -2,7 +2,7 @@
 <Keyboards>
     <Keyboard
         defaultDictionaryLocale="math"
-        defaultEnabled="false"
+        defaultEnabled="true"
         description="@string/math_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="BCC2F188-9810-44BF-A605-D3ADA26FB913"
@@ -12,7 +12,7 @@
         physicalKeyboardMappingResId="@xml/english_physical" />
     <Keyboard
         defaultDictionaryLocale="math"
-        defaultEnabled="false"
+        defaultEnabled="true"
         description="@string/greek_math_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="9AB05222-5B6A-44F6-8667-1C13E7A4D2D3"
@@ -22,7 +22,7 @@
         physicalKeyboardMappingResId="@xml/english_physical" />
     <Keyboard
         defaultDictionaryLocale="math"
-        defaultEnabled="false"
+        defaultEnabled="true"
         description="@string/blackboard_bold_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="495DEA42-F7E2-4DBF-BA27-C85F5A3F47D5"
@@ -31,7 +31,7 @@
         nameResId="@string/blackboard_bold_keyboard"/>
     <Keyboard
         defaultDictionaryLocale="math"
-        defaultEnabled="false"
+        defaultEnabled="true"
         description="@string/math_cal_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="9003804A-0930-4BA8-B364-2F3F024551BD"
@@ -40,11 +40,20 @@
         nameResId="@string/math_cal_keyboard"/>
     <Keyboard
         defaultDictionaryLocale="math"
-        defaultEnabled="false"
+        defaultEnabled="true"
         description="@string/set_theory_keyboard_description"
         iconResId="@drawable/ic_status_math"
         id="C3C0054B-A81A-456A-BAF9-B5F3954F75E3"
         index="5"
         layoutResId="@xml/set_theory"
         nameResId="@string/set_theory_keyboard"/>
+    <Keyboard
+        defaultDictionaryLocale="math"
+        defaultEnabled="true"
+        description="@string/math_symbols_keyboard_description"
+        iconResId="@drawable/ic_status_math"
+        id="48D08545-1566-4F67-8AD2-CF9DC5E8AB5B"
+        index="6"
+        layoutResId="@xml/math_symbols"
+        nameResId="@string/math_symbols_keyboard"/>
 </Keyboards>
