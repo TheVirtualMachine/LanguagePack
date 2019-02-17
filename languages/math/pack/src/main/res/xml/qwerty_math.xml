@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:ask="http://schemas.android.com/apk/res-auto"
-          android:keyWidth="10%p"
-          android:keyHeight="@integer/key_normal_height">
+    xmlns:ask="http://schemas.android.com/apk/res-auto"
+    android:keyWidth="10%p"
+    android:keyHeight="@integer/key_normal_height">
 
     <Row android:rowEdgeFlags="top">
         <Key android:codes="49" android:keyLabel="1" android:popupCharacters="\u00B9\u2081" android:keyEdgeFlags="left"/>
@@ -45,14 +45,14 @@
 
     <Row>
         <Key android:codes="-1" android:keyWidth="15%p"
-             android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:codes="z" android:popupCharacters="\u1DBB"/>
-        <Key android:codes="x" android:popupCharacters="\u02E3\u2093"/>
-        <Key android:codes="c" android:popupCharacters="\u1D9C"/>
-        <Key android:codes="v" android:popupCharacters="\u1D5B"/>
-        <Key android:codes="b" android:popupCharacters="\u1D47"/>
-        <Key android:codes="n" android:popupCharacters="\u207F\u2099"/>
-        <Key android:codes="m" android:popupCharacters="\u1D50\u2098"/>
-        <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
-    </Row>
-</Keyboard>
+            android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
+            <Key android:codes="z" android:popupCharacters="\u1DBB"/>
+            <Key android:codes="x" android:popupCharacters="\u02E3\u2093"/>
+            <Key android:codes="c" android:popupCharacters="\u1D9C"/>
+            <Key android:codes="v" android:popupCharacters="\u1D5B"/>
+            <Key android:codes="b" android:popupCharacters="\u1D47"/>
+            <Key android:codes="n" android:popupCharacters="\u207F\u2099"/>
+            <Key android:codes="m" android:popupCharacters="\u1D50\u2098"/>
+            <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        </Row>
+    </Keyboard>

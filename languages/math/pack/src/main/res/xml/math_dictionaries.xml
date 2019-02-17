@@ -3,7 +3,7 @@
     <Dictionary
         description="@string/math_dictionary_description"
         dictionaryResourceId="@array/math_words_dict_array"
-        id="85fca202-1800-42ce-8860-9d8ca05fbe5e"
+        id="8350a60a-dac1-4fb4-88da-0360035a6b07"
         locale="math"
         nameResId="@string/math_dictionary"
         type="binary_resource" />

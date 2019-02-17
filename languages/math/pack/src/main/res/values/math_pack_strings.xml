@@ -3,8 +3,10 @@
     <string name="math_dictionary">Math</string>
     <string name="qwerty_math_keyboard">Math QWERTY</string>
     <string name="blackboard_bold_keyboard">Math Blackboard Bold</string>
+    <string name="math_cal_keyboard">Math Script</string>
     <string name="set_theory_keyboard">Math Set Theory</string>
     <string name="math_keyboard_description">QWERTY Math Keyboard</string>
     <string name="blackboard_bold_keyboard_description">Blackboard Bold Math Keyboard</string>
+    <string name="math_cal_keyboard_description">Script Math Keyboard</string>
     <string name="set_theory_keyboard_description">Set Theory Math Keyboard</string>
 </resources>
